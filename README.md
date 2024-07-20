@@ -8,5 +8,3 @@ Email: jte2@andrew.cmu.edu
 _About_  
 Incoming Tepper MSBA candidate looking to develop world-relevant technology skills. I'm excited to leverage interdisciplinary analytical skills, business knowledge and an aptitude for creative problem-solving to transform the way we make decisions that impact how the world lives and works.  
 
-_Note_  
-This repository is my portfolio of work - expanding beyond the four corners of my resume.
