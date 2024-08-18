@@ -1,5 +1,5 @@
 **Notable Links**  
-LinkedIn: [https://www.linkedin.com/in/james-evans-cmu/]((https://www.linkedin.com/in/james-evans-cmu/))  
+LinkedIn: [https://www.linkedin.com/in/james-evans-cmu/](https://www.linkedin.com/in/james-evans-cmu/)  
   
 **CMU**  
 Amazing things to come!  
